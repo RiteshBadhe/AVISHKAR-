@@ -1,4 +1,4 @@
-# AVISHKAR-
+# AVISHKAR- mayur 
 Here is the complete breakdown list I would prepare for your Avishkar presentation. I’m separating technical, scientific, environmental, cost, implementation, and poster-claim problems, with a solution for each.
 
 AquaLife Guard — Breakdown + Solution
